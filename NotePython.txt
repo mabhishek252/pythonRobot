@@ -1,0 +1,27 @@
+Built in Modules in Python
+os, abc
+External Modules in Python
+Flask, Tenserflow
+
+Python could be use as a REPL (Read Evaluate Print Loop)
+It means we can calculate rendom value or print any code or function.
+To start REPL on terminal/cmd just type
+python
+To exit REPL on terminal/cmd just type
+exit()
+
+Comments
+Single line comments will start from 
+#
+Multi line comments will start from 
+'''
+Comments
+'''
+
+
+
+
+
+
+
+
